@@ -11,7 +11,7 @@ This is a simple terminal-based Connect 4 game where a human plays against a bas
 ## How to Run
 ```bash
 python connect4.py
-
+```
 Author
 
 Kshitiz Pundir
